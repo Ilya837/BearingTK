@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "701c3c1b-f3c5-445b-aa9e-b6b11d0d7152": {
+      "ProjectGuid": "701c3c1b-f3c5-445b-aa9e-b6b11d0d7152",
+      "DisplayName": "BearingTK",
+      "ColorIndex": 0
+    },
+    "b50160b1-f05b-48a7-a20e-b467dc48bf3a": {
+      "ProjectGuid": "b50160b1-f05b-48a7-a20e-b467dc48bf3a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
